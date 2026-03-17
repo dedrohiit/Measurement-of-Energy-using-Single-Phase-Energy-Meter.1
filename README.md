@@ -1,5 +1,5 @@
-### Name:MITHILESH SG
-### Reg no:212223080029
+### Name:ROHIT R
+### Reg no:212223080045
 # Aim:
 To measure energy using Single Phase Energy Meter
 
